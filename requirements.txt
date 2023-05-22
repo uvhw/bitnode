@@ -7,4 +7,4 @@ pysha3==1.0.2
 PySocks==1.6.8
 pytest==3.7.3
 redis==2.10.6
-requests==2.20.0
+requests==2.31.0
